@@ -1,0 +1,66 @@
+2026-04-16 01:18:42: Info: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe   Ver 8.0.45 for Win64 on x86_64 - for MySQL 8.0.45 (MySQL Community Server (GPL)) - build 21843354 - commit_id 18ea0a3d76803523e47b7d687eb2ec2a7e753c3b
+2026-04-16 01:18:42: Info: Using credential store helper: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysql-secret-store-windows-credential.exe
+2026-04-16 01:18:42: Info: Setting Python home to 'C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.13'
+2026-04-16 01:18:42: Info: Loading startup files...
+2026-04-16 01:18:42: Info: Loading plugins...
+2026-04-16 01:18:44: Info: Pager has been set to 'more.com'.
+2026-04-16 01:18:44: Warning: Using a password on the command line interface can be insecure.
+2026-04-16 01:18:44: Info: Connecting to MySQL at: root@127.0.0.1:3306
+2026-04-16 01:18:44: Info: main: tid=29: CONNECTED: 127.0.0.1:3306
+2026-04-16 01:18:44: Info: Now tracking 'sql_mode' system variable.
+2026-04-16 01:18:49: Info: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe   Ver 8.0.45 for Win64 on x86_64 - for MySQL 8.0.45 (MySQL Community Server (GPL)) - build 21843354 - commit_id 18ea0a3d76803523e47b7d687eb2ec2a7e753c3b
+2026-04-16 01:18:49: Info: Using credential store helper: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysql-secret-store-windows-credential.exe
+2026-04-16 01:18:49: Info: Setting Python home to 'C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.13'
+2026-04-16 01:18:49: Info: Loading startup files...
+2026-04-16 01:18:49: Info: Loading plugins...
+2026-04-16 01:18:50: Info: Pager has been set to 'more.com'.
+2026-04-16 01:18:50: Warning: Using a password on the command line interface can be insecure.
+2026-04-16 01:18:50: Info: Connecting to MySQL at: root@127.0.0.1:3306/movie_booking
+2026-04-16 01:18:50: Info: main: tid=31: CONNECTED: 127.0.0.1:3306
+2026-04-16 01:18:50: Info: Now tracking 'sql_mode' system variable.
+2026-04-16 01:19:22: Info: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe   Ver 8.0.45 for Win64 on x86_64 - for MySQL 8.0.45 (MySQL Community Server (GPL)) - build 21843354 - commit_id 18ea0a3d76803523e47b7d687eb2ec2a7e753c3b
+2026-04-16 01:19:22: Info: Using credential store helper: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysql-secret-store-windows-credential.exe
+2026-04-16 01:19:22: Info: Setting Python home to 'C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.13'
+2026-04-16 01:19:22: Info: Loading startup files...
+2026-04-16 01:19:22: Info: Loading plugins...
+2026-04-16 01:19:22: Info: Pager has been set to 'more.com'.
+2026-04-16 01:19:22: Warning: Using a password on the command line interface can be insecure.
+2026-04-16 01:19:22: Info: Connecting to MySQL at: root@127.0.0.1:3306/movie_booking
+2026-04-16 01:19:22: Info: main: tid=35: CONNECTED: 127.0.0.1:3306
+2026-04-16 01:19:22: Info: Now tracking 'sql_mode' system variable.
+2026-04-16 01:19:44: Info: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe   Ver 8.0.45 for Win64 on x86_64 - for MySQL 8.0.45 (MySQL Community Server (GPL)) - build 21843354 - commit_id 18ea0a3d76803523e47b7d687eb2ec2a7e753c3b
+2026-04-16 01:19:44: Info: Using credential store helper: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysql-secret-store-windows-credential.exe
+2026-04-16 01:19:44: Info: Setting Python home to 'C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.13'
+2026-04-16 01:19:45: Info: Loading startup files...
+2026-04-16 01:19:45: Info: Loading plugins...
+2026-04-16 01:19:45: Info: Pager has been set to 'more.com'.
+2026-04-16 01:20:20: Info: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe   Ver 8.0.45 for Win64 on x86_64 - for MySQL 8.0.45 (MySQL Community Server (GPL)) - build 21843354 - commit_id 18ea0a3d76803523e47b7d687eb2ec2a7e753c3b
+2026-04-16 01:20:20: Info: Using credential store helper: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysql-secret-store-windows-credential.exe
+2026-04-16 01:20:20: Info: Setting Python home to 'C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.13'
+2026-04-16 01:20:20: Info: Loading startup files...
+2026-04-16 01:20:20: Info: Loading plugins...
+2026-04-16 01:20:20: Info: Pager has been set to 'more.com'.
+2026-04-16 01:20:20: Warning: Using a password on the command line interface can be insecure.
+2026-04-16 01:20:20: Info: Connecting to MySQL at: root@127.0.0.1:3306/movie_booking
+2026-04-16 01:20:20: Info: main: tid=37: CONNECTED: 127.0.0.1:3306
+2026-04-16 01:20:20: Info: Now tracking 'sql_mode' system variable.
+2026-04-16 01:20:32: Info: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe   Ver 8.0.45 for Win64 on x86_64 - for MySQL 8.0.45 (MySQL Community Server (GPL)) - build 21843354 - commit_id 18ea0a3d76803523e47b7d687eb2ec2a7e753c3b
+2026-04-16 01:20:32: Info: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe   Ver 8.0.45 for Win64 on x86_64 - for MySQL 8.0.45 (MySQL Community Server (GPL)) - build 21843354 - commit_id 18ea0a3d76803523e47b7d687eb2ec2a7e753c3b
+2026-04-16 01:20:32: Info: Using credential store helper: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysql-secret-store-windows-credential.exe
+2026-04-16 01:20:32: Info: Setting Python home to 'C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.13'
+2026-04-16 01:20:32: Info: Using credential store helper: C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysql-secret-store-windows-credential.exe
+2026-04-16 01:20:32: Info: Setting Python home to 'C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.13'
+2026-04-16 01:20:32: Info: Loading startup files...
+2026-04-16 01:20:32: Info: Loading plugins...
+2026-04-16 01:20:32: Info: Loading startup files...
+2026-04-16 01:20:32: Info: Loading plugins...
+2026-04-16 01:20:33: Info: Pager has been set to 'more.com'.
+2026-04-16 01:20:33: Warning: Using a password on the command line interface can be insecure.
+2026-04-16 01:20:33: Info: Connecting to MySQL at: root@127.0.0.1:3306/movie_booking
+2026-04-16 01:20:33: Info: Pager has been set to 'more.com'.
+2026-04-16 01:20:33: Warning: Using a password on the command line interface can be insecure.
+2026-04-16 01:20:33: Info: Connecting to MySQL at: root@127.0.0.1:3306/movie_booking
+2026-04-16 01:20:33: Info: main: tid=40: CONNECTED: 127.0.0.1:3306
+2026-04-16 01:20:33: Info: Now tracking 'sql_mode' system variable.
+2026-04-16 01:20:33: Info: main: tid=41: CONNECTED: 127.0.0.1:3306
+2026-04-16 01:20:33: Info: Now tracking 'sql_mode' system variable.
